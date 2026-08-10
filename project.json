@@ -1,0 +1,30 @@
+[
+  {
+    "name": "CloudKart",
+    "repo": "Vaishnavi-Ghotekar/cloudkart",
+    "logo": "",
+    "description": "Cloud-Native E-Commerce Platform on AWS EKS with zero-downtime deployments",
+    "tags": ["AWS", "Terraform", "Kubernetes", "DevSecOps"]
+  },
+  {
+    "name": "DevTrackr",
+    "repo": "Vaishnavi-Ghotekar/devtrackr",
+    "logo": "",
+    "description": "AI-Powered DevSecOps Platform with Llama3 and ArgoCD GitOps",
+    "tags": ["React", "FastAPI", "k3s", "GitHub Actions"]
+  },
+  {
+    "name": "Smart Rural Operations Agent",
+    "repo": "Vaishnavi-Ghotekar/smart-rural-agent",
+    "logo": "",
+    "description": "Agentic AI Platform with Hindi chatbot and crop disease detection",
+    "tags": ["Python", "FastAPI", "Docker", "Kubernetes"]
+  },
+  {
+    "name": "GitHub Actions Masterclass",
+    "repo": "Vaishnavi-Ghotekar/github-actions-masterclass",
+    "logo": "",
+    "description": "10+ reusable CI/CD workflow patterns with OIDC and Helm",
+    "tags": ["GitHub Actions", "Kubernetes", "Helm", "CI/CD"]
+  }
+]
