@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,50:0F2027,100:00FF9D&height=220&section=header&text=VAISHNAVI%20GHOTEKAR&fontSize=48&fontColor=00FF9D&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20SRE%20%7C%20Cloud%20%7C%20Platform&descAlignY=58&descColor=22D3EE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,50:0F2027,100:00FF9D&height=220&section=header&text=VAISHNAVI%20GHOTEKAR&fontSize=48&fontColor=00FF9D&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20%7C%20Cloud%20%7C%20Platform&descAlignY=58&descColor=22D3EE" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00FF9D&center=true&vCenter=true&width=650&height=45&lines=root%40vaishnavi%3A~%23+whoami;%3E+DevOps+Engineer+%7C+Cloud+%26+Platform+Engineer;%3E+Building+%2B+Breaking+%2B+Automating;%3E+based+in+Pune%2C+India" alt="typing-svg" />
 
