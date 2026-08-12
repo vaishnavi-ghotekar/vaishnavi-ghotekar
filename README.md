@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vaishnavi-ghotekar-335682335/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9D&labelColor=0A101F" alt="LinkedIn"></a>&nbsp;
   <a href="mailto:vaishnavighotekar@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0A101F" alt="Gmail"></a>&nbsp;
-  <a href="https://info.buildwithvaishnavi.shop"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=7C3AED&labelColor=0A101F" alt="Portfolio"></a>
+  <a href="https://vaishnavi-ghotekar.github.io/GitHub-Actions-zero-to-Hero/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=7C3AED&labelColor=0A101F" alt="Portfolio"></a>
 </p>
 
 <p align="center">
