@@ -25,7 +25,7 @@
 
 
 ```bash
-> DevOps Engineer · Bsc CS (Barkatullah University Bhopal, 2019)
+> DevOps Engineer · Bsc.CS (Barkatullah University Bhopal, 2019)
 > 2 years of experience, Pune — production-grade cloud-native systems
 > Stack: Terraform → AWS → EKS → Jenkins/GitHub Actions → ArgoCD (GitOps)
 > Flagship: CloudKart — zero-downtime rollouts + OpenTelemetry tracing on EKS
@@ -34,7 +34,6 @@
 
 <br/>
 
-### `$ ls tech_stack/`
 
 **Cloud & Infrastructure**
 <p>
