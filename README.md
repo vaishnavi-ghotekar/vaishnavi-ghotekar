@@ -23,12 +23,9 @@
   <img src="https://komarev.com/ghpvc/?username=Vaishnavi-Ghotekar&label=PROFILE+VIEWS&color=00FF9D&style=for-the-badge&labelColor=0A101F" alt="views">
 </p>
 
----
-
-### `$ cat about.md`
 
 ```bash
-> DevOps Engineer · Bsc CS (Barkatullah University, 2019)
+> DevOps Engineer · Bsc CS (Barkatullah University Bhopal, 2019)
 > 2 years of experience, Pune — production-grade cloud-native systems
 > Stack: Terraform → AWS → EKS → Jenkins/GitHub Actions → ArgoCD (GitOps)
 > Flagship: CloudKart — zero-downtime rollouts + OpenTelemetry tracing on EKS
