@@ -134,7 +134,7 @@
   <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0A101F" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
-<a href="http://portfolio.vaishnavidevops.shop/">
+<a href="https://portfolio.vaishnavidevops.shop/">
   <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=globe&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
 </a>
 &nbsp;&nbsp;
